@@ -1,0 +1,24 @@
+h2{
+    color: blue;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: blanchedalmond;
+    Display : inline-block;
+}
+li{
+    float: left;
+}
+li a{
+display: inline-block;
+color: brown;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover{
+    background-color: chartreuse;
+}
